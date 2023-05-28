@@ -1,3 +1,3 @@
-# ansible-projects
+# ansible-project
 
-hands-on project
+this is ansible hands-on project
